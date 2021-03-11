@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\bin\Debug\Game.exe
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\bin\Debug\Game.pdb
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.Game.Stage1.resources
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.exe
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.pdb
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.Game.Stage2.resources
+C:\Users\Omar\Desktop\Windows form\Game\Game\Game\obj\Debug\Game.Game.Stage3.resources
